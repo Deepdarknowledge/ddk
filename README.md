@@ -12,10 +12,16 @@ Made with ❤️
 • Python 3.x
 
 #### Installation and Using DDKARMY
-```bash
-apt install python git
+```
+apt install python git -y
+```
+```
 git clone https://github.com/Deepdarknowledge/ddk.git
-cd NxP
+```
+```
+cd ddk
+```
+```
 python DDKARMY.py
 ```
 
